@@ -25,7 +25,7 @@ The main page
 Main logic for the implementation of the requirements.
 
 ## The requirements
-Build a simple page that looks similar to the following image.
+Build a simple page that looks similar to the image at `public/design.png`.
 
 When you click the big yellow button in the middle, counter function imported from `factory.ts` should be executed and the returned value populated in the middle of it.
 
